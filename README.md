@@ -1,23 +1,22 @@
 
-
 <div align="center">
-
-                                            ```
-                                            ██╗  ██╗ █████╗ ███████╗███████╗ █████╗  █████╗ ███╗   ██╗
-                                            ██║  ██║██╔══██╗██╔════╝██╔════╝██╔══██╗██╔══██╗████╗  ██║
-                                            ███████║███████║███████╗███████╗███████║███████║██╔██╗ ██║
-                                            ██╔══██║██╔══██║╚════██║╚════██║██╔══██║██╔══██║██║╚██╗██║
-                                            ██║  ██║██║  ██║███████║███████║██║  ██║██║  ██║██║ ╚████║
-                                            ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-                                            ```
-
+ 
+```
+██╗  ██╗ █████╗ ███████╗███████╗ █████╗  █████╗ ███╗   ██╗
+██║  ██║██╔══██╗██╔════╝██╔════╝██╔══██╗██╔══██╗████╗  ██║
+███████║███████║███████╗███████╗███████║███████║██╔██╗ ██║
+██╔══██║██╔══██║╚════██║╚════██║██╔══██║██╔══██║██║╚██╗██║
+██║  ██║██║  ██║███████║███████║██║  ██║██║  ██║██║ ╚████║
+╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
+ 
 ### 🤖 AI/ML Engineer | LLM Specialist | Generative AI Enthusiast 🇵🇰
-
+ 
 *Turning cutting-edge AI research into real-world products — from RAG pipelines to multimodal agents.*
-
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassaan7)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassaanazam678@gmail.com)
-
+ 
 </div>
 
 ---
