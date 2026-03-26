@@ -112,28 +112,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hassaan007-hub&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Hassaan007-hub&theme=radical&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassaan007-hub&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Hassaan007-hub&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hassaan007-hub&theme=react-dark&hide_border=true&hide_title=false&area=true)](https://github.com/Hassaan007-hub)
