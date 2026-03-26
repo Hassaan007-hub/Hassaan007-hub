@@ -1,4 +1,3 @@
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Hassaan007-hub&icon=2&color=6)](https://visitcount.itsvg.in)
 
 <div align="center">
 
